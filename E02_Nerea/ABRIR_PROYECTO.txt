@@ -1,0 +1,2 @@
+Abre ESTA carpeta desde Android Studio > Open. Contiene settings.gradle.kts y app. Espera Gradle, elige un emulador API 24 o superior y pulsa Run. Usa JDK 17 y SDK 35. Consulta el PDF de ejercicios y AYUDAS.html en el paquete completo.
+Proyecto base para 16 ejercicios: cada uno parte de una copia salvo E14, que continúa E13. No contiene soluciones finales.

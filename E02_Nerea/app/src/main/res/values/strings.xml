@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblioteca Repaso UT2</string>
+    <string name="cabecera">Biblioteca de clase</string>
+    <string name="anadir">Añadir libro</string>
+    <string name="formulario">Nuevo libro</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+    <string name="pista_titulo">Ejemplo: La isla</string>
+    <string name="pista_autor">Ejemplo: Ana</string>
+    <string name="revisar">Marcar revisión</string>
+    <string name="pendiente">Revisión pendiente</string>
+    <string name="revisado">Revisión realizada</string>
+    <string name="guardar">Guardar libro</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver">Volver al listado</string>
+    <string name="detalle">Detalle del libro</string>
+    <string name="error_titulo">Escribe un título de al menos 2 caracteres</string>
+    <string name="error_autor">Escribe el nombre del autor</string>
+    <string name="guardado">Libro guardado</string>
+    <string name="sin_titulo">Sin título</string>
+    <string name="sin_autor">Sin autor</string>
+    <string name="ayuda">Pulsa un libro para ver su detalle. Usa Añadir libro para crear otro.</string>
+    <string name="consejo_autor">Escribe el nombre completo</string>   <!-- consejo que sale bajo el campo Autor -->
+</resources>

@@ -29,7 +29,7 @@ class FormularioActivity : Activity() {
             finish()
         }
         findViewById<Button>(R.id.btnGuardar).setOnClickListener {
-            val titulo = campoTitulo.text.toString().trim()
+            val titulo = campoTitulo.text.toString().trim()//coge lo que escribió el usuario en los campos y le quita los espacios de los lados (trim).
             val autor = campoAutor.text.toString().trim()
             campoTitulo.error = null
             campoAutor.error = null
